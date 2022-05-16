@@ -33,6 +33,7 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
         - AKS - Azure Kubernetes Service
         - GKE - Google Kubernetes Engine
     - Um dos mais conhecidos pela comunidade
+    - https://kubernetes.io/pt-br/
 
 - <b>Docker Swarm</b>
     - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
@@ -44,6 +45,7 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
     - O Red Hat OpenShift é uma solução de nível empresarial que oferece a tecnologia do Kubernetes e muito mais.
     Vem com todos os elementos extras que tornam o Kubernetes potente e viável para as empresas, incluindo componentes de registro, rede, telemetria, segurança, automação e serviços.
+    - https://developers.redhat.com/products/rhoar/overview
 
 - <b>AWS ECS</b>
     - O Amazon ECS facilita a implantação, o gerenciamento e o dimensionamento de contêineres do Docker que executam aplicativos, serviços e processos em lote. O Amazon ECS coloca contêineres em seu cluster com base em suas necessidades de recursos e é integrado a recursos conhecidos como Elastic Load Balancing, grupos de segurança do EC2, volumes do EBS e funções do IAM.

@@ -25,6 +25,17 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 
 
 # Ferramentas de orquestração de containers e clusters
+- <b>Docker Swarm</b>
+    - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
+    Um grupo de hosts do Docker formam um cluster "Swarm" quando seus mecanismos do Docker estão em execução juntos no "modo Swarm". 
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252b3a53b373fd1ac5325/previews/628252b4a53b373fd1ac53b9/download/image.png
+    - https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-containers/swarm-mode
+
+- <b>AWS ECS</b>
+    - O Amazon ECS facilita a implantação, o gerenciamento e o dimensionamento de contêineres do Docker que executam aplicativos, serviços e processos em lote. O Amazon ECS coloca contêineres em seu cluster com base em suas necessidades de recursos e é integrado a recursos conhecidos como Elastic Load Balancing, grupos de segurança do EC2, volumes do EBS e funções do IAM.
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252d14a1cd0846d043414/previews/628252d24a1cd0846d043542/download/image.png
+    - https://us-east-1.console.aws.amazon.com/ecs/home?region=us-east-1#/getStarted
+
 - <b>Kubernetes: </b>
     - Comumente estilizado como K8s é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres. Ele foi originalmente projetado pelo Google e agora é mantido pela Cloud Native Computing Foundation. Ele funciona com uma variedade de ferramentas de conteinerização, incluindo Docker.
     Muitos serviços de nuvem oferecem uma plataforma baseada em Serviço (Paas ou Iaas), onde o kubernetes pode ser implantado sob serviço gerenciado. Muitos fornecedores também provém sua própria marca de distribuição de kubernetes.
@@ -38,23 +49,12 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252918a5a77049537b098/previews/628252928a5a77049537b188/download/image.png
     - https://kubernetes.io/pt-br/
 
-- <b>Docker Swarm</b>
-    - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
-    Um grupo de hosts do Docker formam um cluster "Swarm" quando seus mecanismos do Docker estão em execução juntos no "modo Swarm". 
-    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252b3a53b373fd1ac5325/previews/628252b4a53b373fd1ac53b9/download/image.png
-    - https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-containers/swarm-mode
-
 - <b>Openshift</b>
     - OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container. 
     Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
     - O Red Hat OpenShift é uma solução de nível empresarial que oferece a tecnologia do Kubernetes e muito mais.
     Vem com todos os elementos extras que tornam o Kubernetes potente e viável para as empresas, incluindo componentes de registro, rede, telemetria, segurança, automação e serviços.
     - https://developers.redhat.com/products/rhoar/overview
-
-- <b>AWS ECS</b>
-    - O Amazon ECS facilita a implantação, o gerenciamento e o dimensionamento de contêineres do Docker que executam aplicativos, serviços e processos em lote. O Amazon ECS coloca contêineres em seu cluster com base em suas necessidades de recursos e é integrado a recursos conhecidos como Elastic Load Balancing, grupos de segurança do EC2, volumes do EBS e funções do IAM.
-    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252d14a1cd0846d043414/previews/628252d24a1cd0846d043542/download/image.png
-    - https://us-east-1.console.aws.amazon.com/ecs/home?region=us-east-1#/getStarted
 
 - <b>Apache Mesos</b>
     - Desenvolvido na Universidade da Califórnia, Berkley, o Apache Mesos é um gerenciador de cluster de código aberto. Seu objetivo é fornecer isolamento e compartilhamento eficientes de recursos em estruturas ou aplicativos distribuídos. Em outras palavras, ajuda no compartilhamento de recursos de maneira refinada, melhorando assim a utilização do cluster. O Apache Mesos é considerado a base para um grande número de sistemas distribuídos.

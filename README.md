@@ -58,4 +58,5 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     Semelhante aos recursos de gerenciamento de sistemas operacionais de PC, o Apache Mesos pode alternar recursos de uma estrutura para outra conforme e quando necessário. Ele pode ajudar a reduzir muitas etapas manuais na implantação de aplicativos e pode ajudar a mudar as cargas de trabalho automaticamente para manter as taxas de utilização altas. O Apache Mesos, com a ajuda de um módulo de alocação conectável, ajuda as organizações a oferecer suporte a diversas políticas de alocação entre estruturas. 
     - O Apache Mesos está localizado entre a camada de aplicação e o sistema operacional. Isso facilita a implantação e pode gerenciar aplicativos com mais eficiência em ambientes em cluster de larga escala. Ele também pode executar vários aplicativos em um conjunto de nós compartilhados dinamicamente. O Apache Mesos também pode fornecer desempenho mais rápido do aplicativo.
     O Apache Mesos foi adotado por várias empresas de software, incluindo a Apple.
+    - https://mesos.apache.org/
     - https://pt.theastrologypage.com/apache-mesos

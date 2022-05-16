@@ -31,14 +31,24 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
         - AKS - Azure Kubernetes Service
         - GKE - Google Kubernetes Engine
     - Um dos mais conhecidos pela comunidade
+
 - <b>Docker Swarm</b>
     - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
     Um grupo de hosts do Docker formam um cluster "Swarm" quando seus mecanismos do Docker estão em execução juntos no "modo Swarm". 
     - https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-containers/swarm-mode
-- <b>Apache Mesos</b>
-    - 
+
 - <b>Openshift</b>
+    - OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container. 
+    Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
+    O Red Hat OpenShift é uma solução de nível empresarial que oferece a tecnologia do Kubernetes e muito mais.
+    Vem com todos os elementos extras que tornam o Kubernetes potente e viável para as empresas, incluindo componentes de registro, rede, telemetria, segurança, automação e serviços.
+
 - <b>AWS ECS</b>
+    -
+
+- <b>Apache Mesos</b>
+    - O Apache Mesos é considerado o kernel de sistemas distribuídos. Ele foi criado com os mesmos princípios do kernel Linux, só que em outro nível de abstração. O Mesos roda em todos os nós de cluster e prove a frameworks como Apache Spark, Hadoop, Cassandra, Kafka, Elastic Search e outros uma API para alocar recursos e rodarem suas tasks através de todo o cluster ou cloud. Em um Mesos cluster, CPU, memória, disco e outros recursos computacionais de todas as máquinas, virtuais ou físicas, são abstraídos em um único pool de recursos. Facilitando a criação e otimizando a utilização de sistemas distribuídos.
+    - https://butecotecnologico.com.br/apache-mesos/
 
 
 ### Referência

@@ -1,6 +1,6 @@
 
 # Visão geral
-<p>A orquestração automatiza a implantação, o gerenciamento, a escala e a rede dos containers. Empresas que precisam implantar e gerenciar centenas ou milhares de containers Linux® e hosts podem se beneficiar da orquestração de containers.</p>
+<p>A orquestração automatiza a implantação, o gerenciamento, a escala e a rede dos containers. Empresas que precisam implantar e gerenciar centenas ou milhares de containers Linux e hosts podem se beneficiar da orquestração de containers.</p>
 
 <p>É possível usar a orquestração em todos os ambientes em que você usa os containers. Com ela, você implanta a mesma aplicação em ambientes diferentes sem precisar reprojetá-la. Além disso, com os microsserviços em containers, é mais fácil orquestrar serviços, incluindo armazenamento, rede e segurança.</p>
 
@@ -21,8 +21,14 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - Monitoramento da integridade do container
 - Configuração da aplicação com base no container em que ela será executada
 - Proteção das interações entre os containers
-- Ferramentas de orquestração de containers
+
+# Ferramentas de orquestração de containers
+- <b>Kubernetes</b>
+- <b>Docker Swarm</b>
+- <b>Apache Mesos</b>
+- <b>Openshift</b>
+- <b>AWS ECS</b>
 
 
-### referência
+### Referência
 - https://www.redhat.com/pt-br/topics/containers/what-is-container-orchestration

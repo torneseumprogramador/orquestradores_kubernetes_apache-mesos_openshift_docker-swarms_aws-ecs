@@ -29,10 +29,12 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - Comumente estilizado como K8s é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres. Ele foi originalmente projetado pelo Google e agora é mantido pela Cloud Native Computing Foundation. Ele funciona com uma variedade de ferramentas de conteinerização, incluindo Docker.
     Muitos serviços de nuvem oferecem uma plataforma baseada em Serviço (Paas ou Iaas), onde o kubernetes pode ser implantado sob serviço gerenciado. Muitos fornecedores também provém sua própria marca de distribuição de kubernetes.
     - Alguns serviços de com Cluster Kubernetes já configurados são:
-        - EKS - Elastic Kubernetes Service
-        - AKS - Azure Kubernetes Service
-        - GKE - Google Kubernetes Engine
-    - Um dos mais conhecidos pela comunidade
+        - EKS - Elastic Kubernetes Service - https://aws.amazon.com/pt/eks/
+        - AKS - Azure Kubernetes Service - https://azure.microsoft.com/pt-br/services/kubernetes-service/
+        - GKE - Google Kubernetes Engine - https://cloud.google.com/kubernetes-engine
+        - OKE - Oracle Container Engine for Kubernetes - https://www.oracle.com/br/cloud/cloud-native/container-engine-kubernetes/
+        - LKE - Linode Kubernetes Engine - https://www.linode.com/docs/guides/kubernetes/
+    - Um dos mais conhecidos pela comunidade 
     - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252918a5a77049537b098/previews/628252928a5a77049537b188/download/image.png
     - https://kubernetes.io/pt-br/
 

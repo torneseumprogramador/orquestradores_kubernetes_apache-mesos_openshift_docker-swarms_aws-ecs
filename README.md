@@ -40,7 +40,7 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - <b>Openshift</b>
     - OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container. 
     Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
-    O Red Hat OpenShift é uma solução de nível empresarial que oferece a tecnologia do Kubernetes e muito mais.
+    - O Red Hat OpenShift é uma solução de nível empresarial que oferece a tecnologia do Kubernetes e muito mais.
     Vem com todos os elementos extras que tornam o Kubernetes potente e viável para as empresas, incluindo componentes de registro, rede, telemetria, segurança, automação e serviços.
 
 - <b>AWS ECS</b>

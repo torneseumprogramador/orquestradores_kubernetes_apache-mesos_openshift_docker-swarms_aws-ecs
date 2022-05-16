@@ -24,6 +24,8 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 
 # Ferramentas de orquestração de containers
 - <b>Kubernetes</b>
+    - Kubernetes (comumente estilizado como K8s) é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres. Ele foi originalmente projetado pelo Google e agora é mantido pela Cloud Native Computing Foundation. Ele funciona com uma variedade de ferramentas de conteinerização, incluindo Docker.
+    Muitos serviços de nuvem oferecem uma plataforma baseada em Serviço (Paas ou Iaas), onde o kubernetes pode ser implantado sob serviço gerenciado. Muitos fornecedores também provém sua própria marca de distribuição de kubernetes.
 - <b>Docker Swarm</b>
 - <b>Apache Mesos</b>
 - <b>Openshift</b>

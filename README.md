@@ -11,7 +11,6 @@
 <p>Veja uma introdução à orquestração de containers empresariais com o Kubernetes</p>
 
 # Qual é a finalidade da orquestração de containers?
-<p>
 Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - Provisionamento e implantação
 - Configuração e programação
@@ -23,7 +22,6 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - Configuração da aplicação com base no container em que ela será executada
 - Proteção das interações entre os containers
 - Ferramentas de orquestração de containers
-</p>
 
 
 ### referência

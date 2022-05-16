@@ -21,6 +21,8 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - Monitoramento da integridade do container
 - Configuração da aplicação com base no container em que ela será executada
 - Proteção das interações entre os containers
+- https://www.redhat.com/pt-br/topics/containers/what-is-container-orchestration
+
 
 # Ferramentas de orquestração de containers
 - <b>Kubernetes: </b>
@@ -51,6 +53,3 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - O Apache Mesos é considerado o kernel de sistemas distribuídos. Ele foi criado com os mesmos princípios do kernel Linux, só que em outro nível de abstração. O Mesos roda em todos os nós de cluster e prove a frameworks como Apache Spark, Hadoop, Cassandra, Kafka, Elastic Search e outros uma API para alocar recursos e rodarem suas tasks através de todo o cluster ou cloud. Em um Mesos cluster, CPU, memória, disco e outros recursos computacionais de todas as máquinas, virtuais ou físicas, são abstraídos em um único pool de recursos. Facilitando a criação e otimizando a utilização de sistemas distribuídos.
     - https://butecotecnologico.com.br/apache-mesos/
 
-
-### Referência
-- https://www.redhat.com/pt-br/topics/containers/what-is-container-orchestration

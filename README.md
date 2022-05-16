@@ -8,8 +8,6 @@
 
 <p>Usar a orquestração no gerenciamento do ciclo de vida dos containers também oferece suporte às equipes de DevOps que integram fluxos de trabalho de CI/CD a ele. Com as interfaces de programação de aplicações (APIs) e as equipes de DevOps, os microsserviços em containers são os pilares das aplicações nativas em nuvem.</p>
 
-<p>Veja uma introdução à orquestração de containers empresariais com o Kubernetes</p>
-
 # Qual é a finalidade da orquestração de containers?
 Use a orquestração de containers para automatizar e gerenciar tarefas como:
 - Provisionamento e implantação

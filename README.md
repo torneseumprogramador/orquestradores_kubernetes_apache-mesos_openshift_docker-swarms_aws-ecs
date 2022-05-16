@@ -62,3 +62,4 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - https://mesos.apache.org/
     - https://pt.theastrologypage.com/apache-mesos
     - https://thiagoviola.wordpress.com/2017/10/09/orquestratacao-de-containers-parte-1-conheca-kubernetes-docker-swarm-apache-mesos/
+    - https://codefresh.io/kubernetes-tutorial/kubernetes-vs-docker-swarm-vs-apache-mesos/

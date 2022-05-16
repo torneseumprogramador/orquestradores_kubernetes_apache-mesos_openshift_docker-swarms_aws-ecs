@@ -59,6 +59,8 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - O Apache Mesos está localizado entre a camada de aplicação e o sistema operacional. Isso facilita a implantação e pode gerenciar aplicativos com mais eficiência em ambientes em cluster de larga escala. Ele também pode executar vários aplicativos em um conjunto de nós compartilhados dinamicamente. O Apache Mesos também pode fornecer desempenho mais rápido do aplicativo.
     - O Apache Mesos foi adotado por várias empresas de software, incluindo a Apple.
     - Para os containers é possivel utilizar o docker compose para deployar containers dentro de uma estrutura com Apache Mesos
+    - O Mesos foi projetado para executar outros aplicativos sobre ele, incluindo o Kubernetes. É possível executar contêineres diretamente no Mesos, mas escolher um aplicativo mais centrado em contêiner para executar no Mesos, como o Kubernetes, fornecerá fluxos de trabalho melhores para a implantação de aplicativos em contêiner.
+    
     - https://mesos.apache.org/
     - https://pt.theastrologypage.com/apache-mesos
     - https://thiagoviola.wordpress.com/2017/10/09/orquestratacao-de-containers-parte-1-conheca-kubernetes-docker-swarm-apache-mesos/

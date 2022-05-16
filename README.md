@@ -24,14 +24,19 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 
 # Ferramentas de orquestração de containers
 - <b>Kubernetes: </b>
-    - (Comumente estilizado como K8s) é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres. Ele foi originalmente projetado pelo Google e agora é mantido pela Cloud Native Computing Foundation. Ele funciona com uma variedade de ferramentas de conteinerização, incluindo Docker.
+    - Comumente estilizado como K8s é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres. Ele foi originalmente projetado pelo Google e agora é mantido pela Cloud Native Computing Foundation. Ele funciona com uma variedade de ferramentas de conteinerização, incluindo Docker.
     Muitos serviços de nuvem oferecem uma plataforma baseada em Serviço (Paas ou Iaas), onde o kubernetes pode ser implantado sob serviço gerenciado. Muitos fornecedores também provém sua própria marca de distribuição de kubernetes.
     - Alguns serviços de com Cluster Kubernetes já configurados são:
         - EKS - Elastic Kubernetes Service
         - AKS - Azure Kubernetes Service
         - GKE - Google Kubernetes Engine
+    - Um dos mais conhecidos pela comunidade
 - <b>Docker Swarm</b>
+    - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
+    Um grupo de hosts do Docker formam um cluster "Swarm" quando seus mecanismos do Docker estão em execução juntos no "modo Swarm". 
+    - https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-containers/swarm-mode
 - <b>Apache Mesos</b>
+    - 
 - <b>Openshift</b>
 - <b>AWS ECS</b>
 

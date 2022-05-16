@@ -44,7 +44,7 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     Vem com todos os elementos extras que tornam o Kubernetes potente e viável para as empresas, incluindo componentes de registro, rede, telemetria, segurança, automação e serviços.
 
 - <b>AWS ECS</b>
-    -
+    - O Amazon ECS facilita a implantação, o gerenciamento e o dimensionamento de contêineres do Docker que executam aplicativos, serviços e processos em lote. O Amazon ECS coloca contêineres em seu cluster com base em suas necessidades de recursos e é integrado a recursos conhecidos como Elastic Load Balancing, grupos de segurança do EC2, volumes do EBS e funções do IAM.
 
 - <b>Apache Mesos</b>
     - O Apache Mesos é considerado o kernel de sistemas distribuídos. Ele foi criado com os mesmos princípios do kernel Linux, só que em outro nível de abstração. O Mesos roda em todos os nós de cluster e prove a frameworks como Apache Spark, Hadoop, Cassandra, Kafka, Elastic Search e outros uma API para alocar recursos e rodarem suas tasks através de todo o cluster ou cloud. Em um Mesos cluster, CPU, memória, disco e outros recursos computacionais de todas as máquinas, virtuais ou físicas, são abstraídos em um único pool de recursos. Facilitando a criação e otimizando a utilização de sistemas distribuídos.

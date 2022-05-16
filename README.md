@@ -60,3 +60,4 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     O Apache Mesos foi adotado por várias empresas de software, incluindo a Apple.
     - https://mesos.apache.org/
     - https://pt.theastrologypage.com/apache-mesos
+    - https://thiagoviola.wordpress.com/2017/10/09/orquestratacao-de-containers-parte-1-conheca-kubernetes-docker-swarm-apache-mesos/

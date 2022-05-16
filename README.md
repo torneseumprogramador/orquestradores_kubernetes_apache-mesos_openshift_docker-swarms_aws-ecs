@@ -33,11 +33,13 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
         - AKS - Azure Kubernetes Service
         - GKE - Google Kubernetes Engine
     - Um dos mais conhecidos pela comunidade
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252918a5a77049537b098/previews/628252928a5a77049537b188/download/image.png
     - https://kubernetes.io/pt-br/
 
 - <b>Docker Swarm</b>
     - O Docker Swarm é um recurso do Docker que fornece funcionalidades de orquestração de contêiner, incluindo clustering nativo de hosts do Docker e agendamento de cargas de trabalho de contêineres. 
     Um grupo de hosts do Docker formam um cluster "Swarm" quando seus mecanismos do Docker estão em execução juntos no "modo Swarm". 
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252b3a53b373fd1ac5325/previews/628252b4a53b373fd1ac53b9/download/image.png
     - https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-containers/swarm-mode
 
 - <b>Openshift</b>
@@ -49,6 +51,7 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
 
 - <b>AWS ECS</b>
     - O Amazon ECS facilita a implantação, o gerenciamento e o dimensionamento de contêineres do Docker que executam aplicativos, serviços e processos em lote. O Amazon ECS coloca contêineres em seu cluster com base em suas necessidades de recursos e é integrado a recursos conhecidos como Elastic Load Balancing, grupos de segurança do EC2, volumes do EBS e funções do IAM.
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252d14a1cd0846d043414/previews/628252d24a1cd0846d043542/download/image.png
     - https://us-east-1.console.aws.amazon.com/ecs/home?region=us-east-1#/getStarted
 
 - <b>Apache Mesos</b>
@@ -61,6 +64,8 @@ Use a orquestração de containers para automatizar e gerenciar tarefas como:
     - Para os containers é possivel utilizar o docker compose para deployar containers dentro de uma estrutura com Apache Mesos
     - O Mesos foi projetado para executar outros aplicativos sobre ele, incluindo o Kubernetes. É possível executar contêineres diretamente no Mesos, mas escolher um aplicativo mais centrado em contêiner para executar no Mesos, como o Kubernetes, fornecerá fluxos de trabalho melhores para a implantação de aplicativos em contêiner.
     
+    - Arquitetura: https://trello.com/1/cards/62825276fd98535f140b3580/attachments/628252a32addad5d42124f79/previews/628252a42addad5d42125088/download/image.png
+
     - https://mesos.apache.org/
     - https://pt.theastrologypage.com/apache-mesos
     - https://thiagoviola.wordpress.com/2017/10/09/orquestratacao-de-containers-parte-1-conheca-kubernetes-docker-swarm-apache-mesos/
